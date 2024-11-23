@@ -1,8 +1,6 @@
 import pywhatkit as pywhatkit
 import time
 
-df = pd.read_excel("whatsapp.xlsx")
-
 phone_number = ["Enter Phone Numbers in the form of list"]
 message = "Enter Your Message Here"
 
